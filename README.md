@@ -11,11 +11,11 @@ The project is concerned with the development of sensors to advance cities in th
 
 
 # Table of Content
-1. [Project management](#Project Management)
-     - [Objectives and Requirements](#Objectives and Requirements)
+1. [Project management](#Project-Management)
+     - [Objectives and Requirements](#Objectives-and-Requirements)
      - [Schedule](#Schedule)
-     - [Roles and Responsibilities](#Roles and Responsibilities)
-     - [Communication and Meetings](#Communication and Meetings)
+     - [Roles and Responsibilities](#Roles-and-Responsibilities)
+     - [Communication and Meetings](#Communication-and-Meetings)
 2. [Sensors](https://github.com/tinyaiot-ps/sensor/blob/main/README.md)
 3. [Frontend](https://github.com/tinyaiot-ps/frontend/blob/main/README.md)
 4. [Backend](https://github.com/tinyaiot-ps/backend/blob/main/README.md)
