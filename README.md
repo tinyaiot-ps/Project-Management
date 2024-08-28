@@ -1,4 +1,4 @@
-# Project-Management
+# Project Management
 Introduction and Project Management of the TinyAIoT Project
 <p align="center">
   <img src="Images/TinyAIoT Logo.png" alt="TinyAIoT_Logo" width="500"/>
