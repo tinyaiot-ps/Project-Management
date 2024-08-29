@@ -80,8 +80,21 @@ In addition to the three main groups, the project management area, led by Robin,
 
 ### Schedule
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+A distinguishing feature of this project was its unusually short timeframe for an IT-project. Work commenced in early May 2024 and wrapped up with the final presentation on July 11, 2024. Given the tight schedule, a well-defined structure and robust communication were essential. To manage the project effectively, we established multiple milestones aligned with the agile Scrum methodology. These milestones were achieved through a series of sprints, as shown in the accompanying figure:
 
+<p align="center">
+  <img src="Images/Milestones.png" alt="Milestones" width="650"/>
+</p>
+
+Although we initially aimed for a complete adoption of Scrum for this project, this approach was adjusted over time. While Scrum offers an excellent structure for full-time projects, it proved to be not entirely feasible in a student context. On the one hand, the students were unable to dedicate their entire working hours to the project, and on the other hand, we relied on timely communication and feedback from external partners, which proved to be challenging.
+Therefore, while we adhered to the core agile principles, we adapted the framework to our specific needs. The following figure exemplifies how individual tasks were structured for the successful completion of our sprints. Despite the adaptations, the agile approach helped us to respond flexibly to changing requirements and make progress in short iterations. By regularly reviewing our work, we were able to identify problems early on and find solutions.
+
+<p align="center">
+  <img src="Images/Jira SCRUM.png" alt="Jira SCRUM" width="750"/>
+</p>
+
+
+Communication with external partners proved to be particularly challenging, especially due to unexpectedly long delivery times for components, which significantly exceeded the specified delivery deadlines. These delays made the originally planned delivery and deployment of sensors for data collection impossible. To demonstrate the functionality nevertheless, we relied primarily on simulated data (mock data) for the dashboard. The delivery of the sensors and further work with them will be left to future project teams.
 
 
 ### Communication and Meetings
