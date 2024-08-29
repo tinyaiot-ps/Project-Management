@@ -20,6 +20,7 @@ The project is concerned with the development of sensors to advance cities in th
 3. [Frontend](https://github.com/tinyaiot-ps/frontend/blob/main/README.md)
 4. [Backend](https://github.com/tinyaiot-ps/backend/blob/main/README.md)
 
+---
 
 ## Project Management
 This section describes various aspects related to project management. It aims to provide a comprehensive overview of the entire project and assist those who wish to integrate the project into their own systems. By understanding our structure and methodologies, readers can adopt successful processes and avoid the pitfalls we encountered.
