@@ -1,5 +1,5 @@
 # TinyAIoT
-Introduction and Project Management of the TinyAIoT Project
+
 <p align="center">
   <img src="Images/TinyAIoT Logo.png" alt="TinyAIoT_Logo" width="500"/>
   <img src="Images/Logo_Universität_Münster.png" alt="Universitaet Muenster_Logo" width="500"/>
@@ -45,7 +45,7 @@ Both internally and in the various meetings with the cities, we identified the c
 |Most Trashcans are not attached to a sensor|Citizens like to use public spaces at night|
 |Waste management employees have their fixed routes|Residents at public spaces want to rest|
 |Cities do not have an overview on fill levels|Cities have limited law enforcement personnel|
-|--> Waste retreival processes are inefficient|--> Citizens and residents are in conflict|
+|→ Waste retreival processes are inefficient|→ Citizens and residents are in conflict|
 
 ### Project Objectives
 To address the challenges identified in the initial phase of the project, we established the following objectives:
@@ -96,10 +96,10 @@ Therefore, while we adhered to the core agile principles, we adapted the framewo
 
 Communication with external partners proved to be particularly challenging, especially due to unexpectedly long delivery times for components, which significantly exceeded the specified delivery deadlines. These delays made the originally planned delivery and deployment of sensors for data collection impossible. To demonstrate the functionality nevertheless, we relied primarily on simulated data (mock data) for the dashboard. The delivery of the sensors and further work with them will be left to future project teams.
 
+---
 
 ### Communication and Meetings
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
 
 
