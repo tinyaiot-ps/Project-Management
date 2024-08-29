@@ -62,10 +62,21 @@ According to the objectives of our project, we divided our team into different g
 
 
 ### Roles and Responsibilities
+The success of the TinyAIoT project was largely due to the effective collaboration and clear distribution of roles among the team members. The team, consisting of nine Information Systems Master's students, was strategically divided into three main groups, each with specific responsibilities essential to the project's goals. In order to gain further expertise in different subject areas, the students wrote seminar papers on the various topics before the start of the project in order to act as experts in a specific area. While each group focused on their primary tasks, cross-functional support was encouraged to ensure seamless project integration.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+#### Sensors:
+The Sensors team consisted of Anni, Michael, Shadia, and Philipp. This team dealt with the development and assembly of the prototypes for the two sensors. This included dealing with the individual components and deciding which of the components would ultimately be used. The installation of the corresponding software and, for the noise detection project, the creation of a machine learning program to identify the source of the noise were also part of the work. The process and further information on this can be found in chapter 2  [Sensors](https://github.com/tinyaiot-ps/sensor/blob/main/README.md).
+
+#### Frontend:
+The frontend team consisted of Sven and Kashif. This team was responsible for creating the dashboard mockups that were used during the communication with the cities to show actual and target states. The team also worked on implementing these mockups and designing the final dashboard. You can find more information and the corresponding code in chapter 3 [Frontend](https://github.com/tinyaiot-ps/frontend/blob/main/README.md).
+
+#### Backend:
+The backend team consisted of Nils and Ahsan. This team designed the corresponding structure and the databases that provided the dashboard with the required information on fill levels and noise levels. Login processes and settings were also processed by this team. A more detailed explanation and the corresponding code can be found in chapter 3 [Backend](https://github.com/tinyaiot-ps/backend/blob/main/README.md).
 
 
+In addition to the three main groups, the project management area, led by Robin, also played a crucial role in ensuring the project stayed on track. Robin was responsible for coordinating communication between the cities and supervisors, organizing meetings, and preparing materials that were essential for the decision-making process.
+
+---
 
 ### Schedule
 
