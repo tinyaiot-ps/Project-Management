@@ -107,6 +107,9 @@ The team has opted for a regular weekly meeting with the supervisors. Here, the 
 ### Reflection and Future Outlook
 
 Despite the great overall success of the TinyAIoT project, we have encountered setbacks, particularly in the delivery of the batteries for the level sensors. These delays have prevented us from delivering the sensors as originally planned. However, the interest in continuing this project remains unbroken, both on the part of the University of Münster and the partner cities of Emsdetten and Laer.
+
 For the future, there is great potential and interest in continuing the TinyAIoT project as part of another project seminar. This future initiative could focus on delivering the level sensors and developing further improvements to the dashboard in collaboration with the cities. There is also the possibility of expanding the project by involving more cities, further refining the machine learning model for noise detection and, in particular, evaluating new application areas for the noise sensor.
+
 The overall feedback from the team is extremely positive. Everyone worked together to develop the best possible end product. We would like to thank both the supervisors and the external partners for their commitment, provision of knowledge, resources and data as well as their general assistance with the project.
+
 At the request of various parties, we have decided to make the project public under a Creative Commons Attribution 4.0 International (CC-BY 4.0) license. This decision was made to ensure that the project can be adapted and used by other cities and organizations interested in smart city solutions in the most accessible way possible.
