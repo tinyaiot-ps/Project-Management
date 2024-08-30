@@ -5,7 +5,7 @@
   <img src="Images/Logo_Universität_Münster.png" alt="Universitaet Muenster_Logo" width="500"/>
 </p>
 
-Welcome to the documentation of our TinyAIoT project. This project was developed as part of a project seminar in the Information Systems and Geoinformatics Master's programs at the University of Münster together with the cities of Emsdetten and Laer.
+Welcome to the documentation of our TinyAIoT project. The TinyAIoT project is an innovative initiative, developed during a project seminar as part of the Information Systems and Geoinformatics Master's programs at the University of Münster. In collaboration with the cities of Emsdetten and Laer, we aimed to advance smart city technologies through sensor development.
 
 The project is concerned with the development of sensors to advance cities in the smart city sector. On the one hand, a sensor was developed that measures the fill level of public garbage cans, and on the other, a sensor that records and analyzes the volume in an area. This data is collected and displayed in a dashboard, which the cities can then use to send optimized routes for emptying the garbage cans to their specialists, or to track the development of noise levels and, if necessary, develop measures to take action against violations.
 
@@ -16,6 +16,7 @@ The project is concerned with the development of sensors to advance cities in th
      - [Roles and Responsibilities](#Roles-and-Responsibilities)
      - [Schedule](#Schedule)
      - [Communication and Meetings](#Communication-and-Meetings)
+     - [Reflection and Future Outlook](Reflection-and-Future-Outlook).
 2. [Sensors](https://github.com/tinyaiot-ps/sensor/blob/main/README.md)
 3. [Frontend](https://github.com/tinyaiot-ps/frontend/blob/main/README.md)
 4. [Backend](https://github.com/tinyaiot-ps/backend/blob/main/README.md)
@@ -24,8 +25,6 @@ The project is concerned with the development of sensors to advance cities in th
 
 ## Project Management
 This section describes various aspects related to project management. It aims to provide a comprehensive overview of the entire project and assist those who wish to integrate the project into their own systems. By understanding our structure and methodologies, readers can adopt successful processes and avoid the pitfalls we encountered.
-
-
 
 
 
@@ -46,7 +45,7 @@ Both internally and in the various meetings with the cities, we identified the c
 |Most Trashcans are not attached to a sensor|Citizens like to use public spaces at night|
 |Waste management employees have their fixed routes|Residents at public spaces want to rest|
 |Cities do not have an overview on fill levels|Cities have limited law enforcement personnel|
-|→ Waste retreival processes are inefficient|→ Citizens and residents are in conflict|
+|→ Waste retrieval processes are inefficient|→ Citizens and residents are in conflict|
 
 ### Project Objectives
 To address the challenges identified in the initial phase of the project, we established the following objectives:
@@ -101,7 +100,13 @@ Communication with external partners proved to be particularly challenging, espe
 
 ### Communication and Meetings
 
+The team has opted for a regular weekly meeting with the supervisors. Here, the successes of the previous week were presented and feedback was received. Obstacles that hindered progress or postponed planned milestones were also addressed here. The supervisors' expertise in the field of sensor technology was particularly valuable for us, allowing us to build on their knowledge and a prototype. Communication with external partners did not take place on a regular basis; meetings were arranged as soon as the project team was able to record new successes or wanted to obtain feedback. A major hurdle in the project was communication with the cities. Although there was a great deal of interest in communication from all parties, it could not always be carried out as desired due to staff absences. Despite some resulting setbacks, we are pleased that the end product was enthusiastically received.
 
+---
 
+### Reflection and Future Outlook
 
-
+Despite the great overall success of the TinyAIoT project, we have encountered setbacks, particularly in the delivery of the batteries for the level sensors. These delays have prevented us from delivering the sensors as originally planned. However, the interest in continuing this project remains unbroken, both on the part of the University of Münster and the partner cities of Emsdetten and Laer.
+For the future, there is great potential and interest in continuing the TinyAIoT project as part of another project seminar. This future initiative could focus on delivering the level sensors and developing further improvements to the dashboard in collaboration with the cities. There is also the possibility of expanding the project by involving more cities, further refining the machine learning model for noise detection and, in particular, evaluating new application areas for the noise sensor.
+The overall feedback from the team is extremely positive. Everyone worked together to develop the best possible end product. We would like to thank both the supervisors and the external partners for their commitment, provision of knowledge, resources and data as well as their general assistance with the project.
+At the request of various parties, we have decided to make the project public under a Creative Commons Attribution 4.0 International (CC-BY 4.0) license. This decision was made to ensure that the project can be adapted and used by other cities and organizations interested in smart city solutions in the most accessible way possible.
