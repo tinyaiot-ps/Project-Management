@@ -112,7 +112,7 @@ For the future, there is great potential and interest in continuing the TinyAIoT
 
 The overall feedback from the team is extremely positive. Everyone worked together to develop the best possible end product. We would like to thank both the supervisors and the external partners for their commitment, provision of knowledge, resources and data as well as their general assistance with the project.
 
-At the request of various parties, we have decided to make the project public under a Creative Commons Attribution 4.0 International (CC-BY 4.0) license. This decision was made to ensure that the project can be adapted and used by other cities and organizations interested in smart city solutions in the most accessible way possible.
+At the request of various parties, we have decided to make the project public under a Creative Commons Attribution 4.0 International (CC-BY 4.0) license for the documentation part and the MIT license for the code. This decision was made to ensure that the project can be adapted and used by other cities and organizations interested in smart city solutions in the most accessible way possible.
 
 ---
 
